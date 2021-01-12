@@ -2,6 +2,6 @@
 
 entendo algumas funcionalidades do tailwind e vue 
 
-! [tela de Registro] (\src\assets\WhatsApp Image 2021-01-12 at 12.58.49.jpeg)
+! [tela de Registro] (https://github.com/jjunieko/vue-tailwind/blob/master/my-taiwland/src/assets/WhatsApp%20Image%202021-01-12%20at%2012.58.49.jpeg)
 
 
